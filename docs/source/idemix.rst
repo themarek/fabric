@@ -189,7 +189,7 @@ The current version of Idemix does have a few limitations.
 
 * **Fixed set of attributes**
 
-  It not yet possible to issue or use an Idemix credential with custom attributes.
+  It is not yet possible to issue or use an Idemix credential with custom attributes.
   Custom attributes will be supported in a future release.
 
   The following four attributes are currently supported:
